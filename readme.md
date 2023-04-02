@@ -39,7 +39,7 @@ Press the below button to Fast deploy on Heroku/Raiwlay
 Either you could locally host or deploy on [Heroku](https://heroku.com)
 ### 💜 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Guardianff/File-To-Link)
 
 <br>
 
@@ -137,7 +137,6 @@ DATABASE_URL=mongodb_uri
 
 To get an instant stream link, just forward any media to the bot and boom, its fast af.
   
-![image](https://user-images.githubusercontent.com/88939380/145798095-3cdad108-96b0-4391-a540-cad144d6b864.png)
 
 
 ### Channel Support
@@ -146,5 +145,5 @@ Bot also Supported with Channels. Just add bot Channel as Admin. If any new file
 ### Credits : 
 
 - [Adarsh Goel](https://github.com/adarsh-goel)
-- [Me For Fix Errors](https://github.com/itz-jeol)
+- [Me For Fix Errors](https://github.com/Guardianff)
 - Everyone In This Journey !
