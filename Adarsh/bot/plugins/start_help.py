@@ -60,7 +60,7 @@ async def start(b, m):
             caption="**ʜᴇʟʟᴏ...⚡\n\nɪᴀᴍ ᴀ sɪᴍᴘʟᴇ ᴛᴇʟᴇɢʀᴀᴍ ғɪʟᴇ/ᴠɪᴅᴇᴏ ᴛᴏ ᴘᴇʀᴍᴀɴᴇɴᴛ ʟɪɴᴋ ᴀɴᴅ sᴛʀᴇᴀᴍ ʟɪɴᴋ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ.**\n\n**ᴜsᴇ /help ғᴏʀ ᴍᴏʀᴇ ᴅᴇᴛsɪʟs\n\nsᴇɴᴅ ᴍᴇ ᴀɴʏ ᴠɪᴅᴇᴏ / ғɪʟᴇ ᴛᴏ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀᴢ... ᴄʀᴇᴀᴛᴇᴅ ʙy :- @ɢᴜᴀʀᴅɪᴀɴꜰꜰ**",
             reply_markup=InlineKeyboardMarkup(
                 [
-                    [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/+Rm1Q1qVxhdg4ZWVl"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/+Rm1Q1qVxhdg4ZWVl")],
+                    [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/AM_FILMS"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/AM_FILMS")],
                     [InlineKeyboardButton("OWNER", url="https://t.me/GUARDIANff"), InlineKeyboardButton("💠 DEVELOPER", url="https://t.me/GUARDIANff")]
                 ]
             ),
@@ -176,7 +176,7 @@ async def help_handler(bot, message):
         
         reply_markup=InlineKeyboardMarkup(
                 [
-                    [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/+Rm1Q1qVxhdg4ZWVl"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/+Rm1Q1qVxhdg4ZWVl")],
+                    [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/AM_FILMS"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/AM_FILMS")],
                     [InlineKeyboardButton("OWNER", url="https://t.me/GUARDIANff"), InlineKeyboardButton("💠 DEVELOPER", url="https://t.me/GUARDIANff")]
                 ]
             ),
@@ -230,7 +230,7 @@ async def about_handler(bot, message):
 ┃
 ┣⪼<b>ʙᴏᴛ ɴᴀᴍᴇ : ғɪʟᴇ ᴛᴏ ʟɪɴᴋ
 ┣⪼<b>ᴜᴘᴅᴀᴛᴇᴢ : <a href='https://t.me/GUARDIANff'>GUARDIANff</a></b>
-┣⪼<b>sᴜᴘᴘᴏʀᴛ : <a href='https://t.me/+Rm1Q1qVxhdg4ZWVl'>ADHOLOKAM</a></b>
+┣⪼<b>sᴜᴘᴘᴏʀᴛ : <a href='https://t.me/AM_FILMS'>ADHOLOKAM</a></b>
 ┣⪼<b>sᴇʀᴠᴇʀ : ʜᴇʀᴜᴋᴏ</b>
 ┣⪼<b>ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ</b>
 ┣⪼<b>ʟᴀɴɢᴜᴀɢᴇ: ᴘʏᴛʜᴏɴ 3</b>
@@ -240,7 +240,7 @@ async def about_handler(bot, message):
         
         reply_markup=InlineKeyboardMarkup(
                 [
-                    [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/+Rm1Q1qVxhdg4ZWVl"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/+Rm1Q1qVxhdg4ZWVl")],
+                    [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/AM_FILMS"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/AM_FILMS")],
                     [InlineKeyboardButton("OWNER", url="https://t.me/GUARDIANff"), InlineKeyboardButton("💠 DEVELOPER", url="https://t.me/GUARDIANff")]
                 ]
             ),
